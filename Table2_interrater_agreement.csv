@@ -1,0 +1,6 @@
+"criterion","N","percent_agreement","kappa"
+"Correct_key",80,92.5,0.592529711375212
+"Clarity_stem",80,90,0.175257731958764
+"Quality_distractors",80,93.75,0.261992619926199
+"Difficulty_match",80,72.5,0.0445168295331162
+"Correctness_diagram",13,84.6153846153846,0.701149425287356

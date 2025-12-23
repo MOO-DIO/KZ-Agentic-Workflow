@@ -1,0 +1,6 @@
+"criterion","E1_N","E1_accept","E1_minor","E1_reject","E1_accept_pct","E1_minor_pct","E1_reject_pct","E2_N","E2_accept","E2_minor","E2_reject","E2_accept_pct","E2_minor_pct","E2_reject_pct"
+"Correct_key",80,73,1,6,91.25,1.25,7.5,80,71,3,6,88.75,3.75,7.5
+"Clarity_stem",80,72,4,4,90,5,5,80,78,2,0,97.5,2.5,0
+"Quality_distractors",80,76,2,2,95,2.5,2.5,80,77,2,1,96.25,2.5,1.25
+"Difficulty_match",80,58,17,5,72.5,21.25,6.25,80,78,2,0,97.5,2.5,0
+"Correctness_diagram",13,8,4,1,61.5384615384615,30.7692307692308,7.69230769230769,13,9,2,2,69.2307692307692,15.3846153846154,15.3846153846154
